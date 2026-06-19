@@ -6,6 +6,9 @@
             </h2>
         </div>
     </div>
+    <div class="home">
+          <RouterLink to="/" class="navbar"> Back Home</RouterLink> 
+    </div>
 </template>
 <style>
 .notfound {
@@ -30,6 +33,9 @@
     align-items: center;
     width: 100%;
     height: 200px;
+    text-align: center;
+}
+.home{
     text-align: center;
 }
 </style>

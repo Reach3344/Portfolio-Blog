@@ -16,7 +16,7 @@ nav{
       justify-content: center;
       align-items: center;
       gap: 20px;
-      background-color: aquamarine;
+      background-color: #3498db;
       font-size: 20px;
       border-radius: 5px;
 }
